@@ -5,15 +5,15 @@ angela@egunn.com
 Distracted Driving Project
 --------------------------
 A project looking at distracted driving in motor vehicle accident records  
-Source Code: https://github.com/anggunn/Angela_Gunn/tree/master/205project  
+Source Code: https://github.com/anggunn/Angela_Gunn/tree/master/205project    
 Document : https://github.com/anggunn/AngelaGunn/blob/master/AccidentProject_Documentation%20(2).pdf
 
---------------------
+-------------------
 Bike Sharing Project
 --------------------
 A group project predicting bike sharing usage (Kaggle Competition)  
-Source Code: https://github.com/RajeshThallam/MIDS-W207-FINAL-PROJECT  
-Document: https://github.com/anggunn/AngelaGunn/blob/master/Bike%20Sharing%20ipynb%20notebook%20printout.pdf
+Source Code (iPython Notebook): https://github.com/RajeshThallam/MIDS-W207-FINAL-PROJECT/blob/master/Angela_Sayanta_Rajesh_Bike%20Sharing.ipynb  
+Document (PDF of Notebook): https://github.com/anggunn/AngelaGunn/blob/master/Bike%20Sharing%20ipynb%20notebook%20printout.pdf  
 
 
 ------------------------
