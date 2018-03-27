@@ -2,6 +2,16 @@
 #### Sample of Academic Projects
 angela@egunn.com
 
+-----------
+Job Fiction
+-----------
+A group project looking at using NLP in job searching. _Application not running at this time_  
+https://www.ischool.berkeley.edu/projects/2016/job-fiction
+Presentation: https://prezi.com/fhtm-cfni6iq/view  
+Website: http://jobfiction.s3-website-us-west-1.amazonaws.com/  
+Source Code: https://github.com/RajeshThallam/job-fiction  
+Screen Shots: https://github.com/anggunn/AngelaGunn/blob/master/JobFiction%20-%20screenshots.pdf  
+
 --------------------------
 Distracted Driving Project
 --------------------------
@@ -15,16 +25,6 @@ Bike Sharing Project
 A group project predicting bike sharing usage (Kaggle Competition)  
 Source Code (iPython Notebook): https://tinyurl.com/BikePyNB  
 Document (PDF of Notebook): https://tinyurl.com/BikePyNBpdf    
-
------------
-Job Fiction
------------
-A group project looking at using NLP in job searching. _Application not running at this time_  
-https://www.ischool.berkeley.edu/projects/2016/job-fiction
-Presentation: https://prezi.com/fhtm-cfni6iq/view  
-Website: http://jobfiction.s3-website-us-west-1.amazonaws.com/  
-Source Code: https://github.com/RajeshThallam/job-fiction  
-Screen Shots: https://github.com/anggunn/AngelaGunn/blob/master/JobFiction%20-%20screenshots.pdf  
 
 ------------------------
 SF Housing Visualization
