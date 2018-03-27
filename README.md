@@ -10,7 +10,7 @@ https://www.ischool.berkeley.edu/projects/2016/job-fiction
 Presentation: https://prezi.com/fhtm-cfni6iq/view  
 Website: http://jobfiction.s3-website-us-west-1.amazonaws.com/  
 Source Code: https://github.com/RajeshThallam/job-fiction  
-Screen Shots: https://github.com/anggunn/AngelaGunn/blob/master/JobFiction%20-%20screenshots.pdf  
+Screen Shots: https://tinyurl.com/JobFictionScreens  
 
 --------------------------
 Distracted Driving Project
@@ -31,6 +31,12 @@ SF Housing Visualization
 ------------------------
 A group project looking at housing trends over time for various demographics  
 https://tinyurl.com/sfhousingvisual
+
+-----------------------
+Wine Tasting Experiment
+-----------------------
+A group project looking at the effects of price on the enjoyment of wine.  
+https://tinyurl.com/WineXpaper  
 
 ----------------------------------
 NY Parking Tickets - Ethical Paper
