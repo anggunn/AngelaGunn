@@ -6,7 +6,7 @@ angela@egunn.com
 Job Fiction
 -----------
 A group project looking at using NLP in job searching. _Application not running at this time_  
-https://www.ischool.berkeley.edu/projects/2016/job-fiction
+https://www.ischool.berkeley.edu/projects/2016/job-fiction  
 Presentation: https://prezi.com/fhtm-cfni6iq/view  
 Website: http://jobfiction.s3-website-us-west-1.amazonaws.com/  
 Source Code: https://github.com/RajeshThallam/job-fiction  
